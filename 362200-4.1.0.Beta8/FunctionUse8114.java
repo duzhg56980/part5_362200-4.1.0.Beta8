@@ -1,0 +1,6 @@
+import io.netty.handler.traffic.TrafficCounter;
+public class FunctionUse8114 {
+public void funcUse() {
+TrafficCounter trafficcounter = new TrafficCounter();
+}
+}
